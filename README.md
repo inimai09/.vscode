@@ -27,10 +27,3 @@ Console/Terminal for input
 Clone this repository:
 
 git clone https://github.com/inimai09/.vscode.git
-
-
-Open in your IDE (VS Code, IntelliJ, Eclipse, etc.)
-
-Update the file path in Music.java (your actual path is already set):
-
-String filePath = "C:\\Users\\vijay\\OneDrive\\Attachments\\.vscode\\projects\\Raining Tacos.wav";
